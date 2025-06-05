@@ -1,0 +1,11 @@
+body {
+    font-family: 'Corier new', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    background-color: lightgray;
+    border-bottom: 1px solid black;
+}
+
+/*O comando body aparece porque ele ja está no css
